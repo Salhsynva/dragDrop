@@ -1,0 +1,5 @@
+.box{
+    min-height: 30vh;
+    background-color: rgb(188, 219, 188);
+    border-radius: 5px;
+}
